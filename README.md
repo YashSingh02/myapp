@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Share2Care- An App to foster local sharing.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
